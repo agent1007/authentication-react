@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/authentication-react/static/css/main.7dc1f7c8.chunk.css",
+    "main.js": "/authentication-react/static/js/main.1b5aedc8.chunk.js",
+    "main.js.map": "/authentication-react/static/js/main.1b5aedc8.chunk.js.map",
+    "runtime-main.js": "/authentication-react/static/js/runtime-main.106428eb.js",
+    "runtime-main.js.map": "/authentication-react/static/js/runtime-main.106428eb.js.map",
+    "static/js/2.ddb2f352.chunk.js": "/authentication-react/static/js/2.ddb2f352.chunk.js",
+    "static/js/2.ddb2f352.chunk.js.map": "/authentication-react/static/js/2.ddb2f352.chunk.js.map",
+    "static/js/3.e5ad788b.chunk.js": "/authentication-react/static/js/3.e5ad788b.chunk.js",
+    "static/js/3.e5ad788b.chunk.js.map": "/authentication-react/static/js/3.e5ad788b.chunk.js.map",
+    "index.html": "/authentication-react/index.html",
+    "static/css/main.7dc1f7c8.chunk.css.map": "/authentication-react/static/css/main.7dc1f7c8.chunk.css.map",
+    "static/js/2.ddb2f352.chunk.js.LICENSE.txt": "/authentication-react/static/js/2.ddb2f352.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/authentication-react/static/media/Inter-Regular.e148c4a1.woff",
+    "static/media/logo-header.4410338f.svg": "/authentication-react/static/media/logo-header.4410338f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.106428eb.js",
+    "static/js/2.ddb2f352.chunk.js",
+    "static/css/main.7dc1f7c8.chunk.css",
+    "static/js/main.1b5aedc8.chunk.js"
+  ]
+}
