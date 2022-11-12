@@ -12,7 +12,7 @@
 
 **Ссылка на проектную работу**
 
-* [Ссылка на проектную работу](https://agent1007.github.io/authentication-react/)
+* [Ссылка на проектную работу](https://agent1007.github.ioauthentication-react/#/signin/)
 
 
 
