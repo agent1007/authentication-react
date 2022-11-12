@@ -34,7 +34,9 @@
 @import url(./components/Register/__input-container/register__input-container.css);
 @import url(./components/Register/__loading/register__loading.css);
 
-
+@import url(./components/Error/error.css);
+@import url(./components/Error/_visible/error_visible.css);
+@import url(./components/Error/_register/error_register.css);
 
 
 
