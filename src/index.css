@@ -1,0 +1,41 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/inter.css);
+@import url(./components/Body/body.css);
+@import url(./components/Page/page.css);
+@import url(./components/Header/header.css);
+@import url(./components/Header/__logo/header__logo.css);
+@import url(./components/Header/__button-enter/header__button-enter.css);
+@import url(./components/Header/__button-register/header__button-register.css);
+@import url(./components/Header/__container/header__container.css);
+@import url(./components/Header/_register/header_register.css);
+@import url(./components/Header/__title/header__title.css);
+@import url(./components/Header/__logo/_dark-theme/header__logo_dark-theme.css);
+@import url(./components/Header/__logo/_profile/header__logo_profile.css);
+@import url(./components/Header/__container/_profile/header__container_profile.css);
+
+
+@import url(./components/Footer/__container/footer__container.css);
+@import url(./components/Footer/__copyright/footer__copyright.css);
+@import url(./components/Footer/__link/footer__link.css);
+@import url(./components/Footer/__links/footer__links.css);
+@import url(./components/Footer/__title/footer__title.css);
+@import url(./components/Footer/footer.css);
+
+@import url(./components/Register/register.css);
+@import url(./components/Register/__container/register__container.css);
+@import url(./components/Register/__form/register__form.css);
+@import url(./components/Register/__input/register__input.css);
+@import url(./components/Register/__input-text/register__input-text.css);
+@import url(./components/Register/__link/regiser__link.css);
+@import url(./components/Register/__submit-button/register__submit-button.css);
+@import url(./components/Register/__submit-button/_disabled/register__submit-button_disabled.css);
+@import url(./components/Register/__text/regiser__text.css);
+@import url(./components/Register/__inputs/register__inputs.css);
+@import url(./components/Register/__input-container/register__input-container.css);
+@import url(./components/Register/__loading/register__loading.css);
+
+
+
+
+
+
